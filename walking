@@ -1,0 +1,119 @@
+{
+  "config" : {
+    "adcolony" : {
+      "adcolony_app_id" : "",
+      "adcolony_interstitial_id" : "",
+      "adcolony_rewarded_id" : ""
+    },
+    "admob" : {
+      "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
+      "admob_rewarded_id" : "ca-app-pub-3940256099942544/5224354917",
+      "admob_unit_id" : ""
+    },
+    "appodeal" : {
+      "appodeal_app_key" : ""
+    },
+    "facebook" : {
+      "facebook_banner_id" : "",
+      "facebook_interstitial_id" : "",
+      "facebook_native_id" : ""
+    },
+    "mode_ads_banner" : "admob",
+    "mode_ads_interstitial" : "admob",
+    "mode_ads_native_enabled" : true,
+    "mode_ads_rewarded" : "admob",
+    "mode_button_ads_action" : "1",
+    "unity" : {
+      "unity_app_id" : "",
+      "unity_banner_id" : "",
+      "unity_interstitial_id" : "",
+      "unity_rewarded_id" : ""
+    },
+    "update" : {
+      "enable_update_closed" : true,
+      "update_action" : "",
+      "update_msg" : "update your app for grt all favorite now",
+      "update_state" : false,
+      "update_title" : "update your app"
+    },
+    "app" : {
+      "mode_off_version" : "0"
+    }
+  },
+  "posts" : [
+    {
+      "id" : 0,
+      "imageURL" : "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/06/switch_newpokemonsnap_hero.jpg",
+      "state" : "free",
+      "title" : "New Pokémon Snap: Release date, price, rumors, and everything we know so far",
+      "description" : "Twenty years is a long time to wait, but for those die-hard fans of Pokémon Snap, our patience has paid off. That's right, during June 17th's Pokémon Presents, the New Pokémon Snap was announced. This long-awaited sequel is coming out on Nintendo Switch on April 30, 2021, and we are very excited to see what this new game has in store. Here's what we know so far.",
+      "written" : ""
+    },
+    {
+      "id" : 1,
+      "imageURL" : "https://cdn.vox-cdn.com/thumbor/4qVNFCDrS6HvuisRVma-bXu2aFs=/253x66:1665x1011/920x613/filters:focal(842x265:1148x571):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/69209895/GameCapture_2021_04_26_11_03_22.0.jpg",
+      "state" : "free",
+      "title" : "Is there a release date?",
+      "description" : "New Pokémon Snap will be released on April 30, 2021, on Nintendo Switch. You can preorder the game today. As more information comes out, we'll be sure to keep you updated.",
+      "written" : ""
+    },
+    {
+      "id" : 2,
+      "imageURL" : "https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/dp/B08CWL8X61?tag=gamespot-preorderguides-20&ascsubtag=ag%3Ags-1100-6478832%7Cvg%3A80350104-da74-4046-8688-f52199d43a6d%7Cst%3Adtp",
+      "state" : "free",
+      "title" : "What is Pokémon Snap?",
+      "description" : "Pokémon Snap fans rejoice! On January 14, 2021, Nintendo of America gave us the tweet we've all been waiting for. After months of silence, Nintendo has given us a trailer and a release date of April 30, 2021. Plus, preorders are available. The trailer displays some fantastic visuals, a look a Professor Mirror, and plenty of Pokémon in their natural environment. It gives us a glimpse of gameplay and quite possibly some throwback tools from the original that will help you obtain the perfect shot. And you won't be alone on your adventure. Professor Mirror has two research assistants to help: Rita and Phil. Unlike the previous game, Phil takes on the role of your rival and dead-set on beating you any chance he gets. Rita, however, is Professor Mirror's eager research assistant, and she's ready to help you with your research. According to Nintendo, the New Pokémon Snap will have players exploring and snapping photos of the Pokémon living on the Lental Islands. The Pokémon and vegetation of the Lental region glow mysteriously, and it's your job to get to the bottom of it.",
+      "written" : ""
+    },
+    {
+      "id" : 3,
+      "imageURL" : "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/pokemon-snap-screenshot2.jpg",
+      "state" : "free",
+      "title" : "What we know about New Pokémon Snap so far",
+      "description" : "Your task is to investigate the Illumina phenomenon and help Professor Mirror with his research. While the game is new, the concept will remain the same with a few updates. With the same goal of snapping the perfect photos of Pokémon in the wild, this new game promises a variety of environments where players can frame up some fantastic shots of Pokémon living their best wild-life. Players will get to pick an avatar and hop into the NEO-ONE travel pod and explore different environments from beaches to deserts, gathering research, and of course, getting the best shot. Some additional goals include discovering new, natural Pokémon behaviors and checking out areas we've never seen up close and personal. The game boasts that you can catch over 200 different Pokémon on your journey. It also encourages players to investigate plants and other interesting objects they may uncover. And who knows, you may encounter a Legendary or Mythical Pokémon!",
+      "written" : ""
+    },
+    {
+      "id" : 4,
+      "imageURL" : "http://trucsetastucesjeux.com/wp-content/uploads/2021/05/Nouveau-Pokemon-Snap-Comment-obtenir-des-photos-1-2-3.jpg",
+      "state" : "free",
+      "title" : "New gameplay features",
+      "description" : "New Pokémon Snap has another first for Pokémon overall; it will feature voice acting in all the cut scenes. Players can choose between English or Japanese dialogue, or you can turn off the chatter completely. While the cut scenes will be fully voiced, the other parts will only include simple phrases. Also, if you wanted to feel like a true Pokémon photographer, you will have your chance! New Pokémon Snap will feature motion controls, which can really help pull you into the Lental region. If you aren't a fan, you can turn off the motion controls — but having this option is an exciting addition. Another new feature that wasn't in the original is the ability to choose your own avatar. While you can select from several options, you can't change them once you've made your selection. Also, there will be no costumes or clothing stores here. This makes a little sense since players will mostly be behind the camera. It is a little bit of a bummer, still. Players can also scan the environment to identify hidden Pokémon or elements in the surroundings. That'll definitely help you locate any creatures that are flying above you or have dug themselves into sand out of view. Some Pokémon even react to the scanning sound to provide you with new photo opportunities. Scanning might just help you find another path to take that you hadn't previously noticed.",
+      "written" : ""
+    },
+    {
+      "id" : 5,
+      "imageURL" : "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/06/switch_newpokemonsnap_04.jpg",
+      "state" : "free",
+      "title" : "Test title 5",
+      "description" : "On your photo safaris, you might just come across Lumina Pokémon, creatures that glow and have unique markings compared to regular Pokémon. This is a mysterious occurance, but maybe exploring the Lental Region will help you learn more about it. Players can also toss Lumina Orbs at Pokémon to make them light up and react for adorable photo ops",
+      "written" : ""
+    },
+    {
+      "id" : 6,
+      "imageURL" : "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/03/pokemon-snap-avatars.jpg",
+      "state" : "free",
+      "title" : "Lumina Pokémon",
+      "description" : "While plenty of the gameplay seems to be the same, the Photodex has definitely gotten a makeover. The original Pokémon didn't provide much when it came to photos. The game's goal was simply to snap good photos, and Professor Oak would evaluate them by certain aesthetics — was the Pokémon centered? Did you get a close enough shot? Were there multiple Pokémon of the same type in the photo? Was the Pokémon being expressive or doing something unique? From there, you compiled your best shots of each Pokémon in a Photodex, trying to get a better shot each time you went out into the field. This proves to be the case in New Pokémon Snap from the new screenshots, but with a few unique additions, such as placement and background. Plus, you can use a whole arsenal of tools to get a perfect shot, like Fluff fruit, the Poké Flute, and Ilumina orbs designed to make Pokémon glow.",
+      "written" : ""
+    },
+    {
+      "id" : 7,
+      "imageURL" : "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/02/pokemon-snap-new-screenshot.jpg",
+      "state" : "vip",
+      "title" : "Exciting new paths and different Pokémon every time",
+      "description" : "In New Pokémon Snap, the Photodex is much more in-depth. Not only does it appear that you can keep more than one shot, but it also provides information about the Pokémon in the photos. The goal is to capture a variety of poses and keep improving on your technique. The original game encouraged players to go back for better shots as new tools become available. Players can get a photo rank of one to fours depending on how rare the Pokémon's behavior is, with four stars being the most difficult to capture. Plus, you're not just stuck with the photo you took. New Pokémon Snap has a photo editor, so you can adjust settings, add filters, and even stickers if you'd like. And what good is an awesome photo if you can't share it with friends? During the February 26, 2021 Pokémon Direct, it was announced that players would be able to share photos online for players from around the world to rank — what better incentive to go back and take the best photo possible. These images are saved to your personal album, which is separate from your Photodex.",
+      "written" : ""
+    },
+    {
+      "id" : 8,
+      "imageURL" : "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/01/pokemon-photo-score.jpg",
+      "state" : "vip",
+      "title" : "Exciting new paths and different Pokémon every time",
+      "description" : "While New Pokémon Snap follows a very familiar path, that doesn't mean there's nothing new up its sleeve! While the previous entry would retread the same paths and feature the same Pokémon in each level, New Pokémon Snap is all about change. Each path can spawn different Pokémon every time, plus stages experience different variants like night and day, coaxing different Pokémon out into the open. Plus, the longer you play the game, the more Pokémon come out! As you gain Research Levels, you can find more Pokémon, open up different paths in levels, and experience terrain changes that will give you a brand new experience every time you jump into a level. To find some new paths, learn more about Pokémon, or just get their attention, New Pokémon Snap features the Scan ability. In addition to the other tools mentioned above, this new option can help you interact with the Pokémon and the environment around you to discover new and exciting things about the Lental region.",
+      "written" : ""
+    }
+  ]
+}
