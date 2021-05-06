@@ -45,74 +45,75 @@
   "posts" : [
     {
       "id" : 0,
-      "imageURL" : "",
+      "imageURL" : "http://i3.ytimg.com/vi/BGtROJeMPeE/maxresdefault.jpg",
       "state" : "vip",
-      "title" : "",
-      "description" : "",
+      "title" : "What is League of Legends?",
+      "description" : "eague of Legends is a multiplayer online battle arena, also known as a MOBA. It’s been one of the most popular games of all time and currently one of the biggest esports. In a standard game of League, ten players are split into two teams of five and battle it out on a map called Summoner’s Rift. Each of these players controls a single character, known as a champion. What is a champion? All ten players in a League of Legends match controls a single champion. There are currently over 140 champions with new ones being continuously added over time. Every champion has special abilities and powers with unique playstyles. Before a game begins at champ select, each team takes turns selecting champions. There’s a lot of strategies involved as you work with your team to create teams with champions that work well together (more on this later). Every game you play can be vastly different since every champion has their own feel and gameplan. How do you win? The ultimate goal of LoL is to destroy the other team’s base, but it’s not easy. Your enemies will do everything they can to kill you and destroy your base. Each base has a series of turrets and waves of minions that constantly spawn. If you started a game and tried to run straight to the enemy base, you’d certainly die, not just because the enemy team would be trying to stop you at all costs, but also because you may be too weak and die. League is sort of like a role-playing game (RPG) that takes place in a very short amount of time. You begin at level 1 and gradually get stronger throughout the game by gaining experience and earning gold to buy items. The two teams continually grow in power and collide. Eventually, one team is able to get the upper hand and make a final push for a victory.",
       "written" : ""
     },
     {
       "id" : 1,
-      "imageURL" : "",
+      "imageURL" : "https://cdnportal.mobalytics.gg/production/2018/12/Basic-map.jpg",
       "state" : "vip",
-      "title" : "",
-      "description" : "",
+      "title" : "What is Summoner’s Rift?",
+      "description" : "This is the standard map that the professionals play on and it’s where you’d be if you were trying to climb the ranked ladder. There are other maps in League, but for now, we’ll focus on Summoner’s Rift since it’s where you’ll likely be spending most of your time. Here are the basics of the Summoner’s Rift map: There are two teams of five players: the blue team (base at bottom left corner) and the red team (base at the top right corner). To achieve victory, one team has to destroy the opposing team’s Nexus (basically the core of their base). During a match, minions will continually spawn from each base’s Nexus and proceed through the three lanes (the paths are shown in the graphic above). The three lanes are known as top lane, mid lane, and bot lane. In all three lanes, there are turrets which will attack enemy champions and minions. Summoners must destroy all turrets in at least one lane and then destroy the last two towers that protect a Nexus before being able to attack and destroy it.",
       "written" : ""
     },
     {
       "id" : 2,
-      "imageURL" : "",
+      "imageURL" : "https://cdnportal.mobalytics.gg/production/2019/06/Super-minions.jpg",
       "state" : "vip",
-      "title" : "",
+      "title" : "Turrets and Inhibitors",
       "description" : "",
-      "written" : ""
+      "written" : "Destroying turrets and other structures called inhibitors rewards players with gold and allows the minion waves to push through the lane (since there aren’t any turrets to stop them). Inhibitors are structures that are behind the initial turrets inside a base. If an inhibitor is destroyed, upgraded minions, called Super Minions, will spawn until an inhibitor respawns after a few minutes. A team can often use the Super Minions to successfully siege a base that was previously difficult to attack and create an opportunity to push to victory."
     },
     {
       "id" : 3,
-      "imageURL" : "",
+      "imageURL" : "https://cdnportal.mobalytics.gg/production/2019/06/Fountain-and-shop.jpg",
       "state" : "free",
-      "title" : "",
-      "description" : "",
+      "title" : "The Fountain and Shop",
+      "description" : "At the beginning of each game, you’ll begin at your fountain. You’ll revisit your fountain because it’s where you’ll respawn when you die and it’s where your shop is located. You can return to your fountain at any time during a game to heal or purchase items. All you have to do is use the Recall ability which every summoner has access to – just be careful and use it safely because you can be interrupted while casting it.",
       "written" : ""
     },
     {
       "id" : 4,
-      "imageURL" : "",
+      "imageURL" : "https://cdnportal.mobalytics.gg/production/2019/06/all-champions.jpg",
       "state" : "free",
-      "title" :"",
-      "description" : "",
+      "title" :"LoL Champion Basics",
+      "description" : "Now that we understand the basics of the map, let’s get back to talking about champions. Champions are the heart and soul of League of Legends as they’re often what players resonate with most. While Summoner’s Rift stays constant, the different combinations of champions that are chosen by the ten players in game can create vastly different rhythms and feels. Right now there are currently over 140 champions, each of them representing a different playstyle and experience. Some are simple and easy to play while others may take a hundred games to master. Whether you like dealing damage from afar, brawling at close quarters, or helping your team with utility, there’s a champion for you. In the next few sections, we’ll discuss different aspects of champions, such as their abilities, stats, and scaling.",
       "written" : ""
     },
     {
       "id" : 5,
-      "imageURL" : "",
+      "imageURL" : "https://cdnportal.mobalytics.gg/production/2019/06/Ashe-skillshot.jpg",
       "state" : "free",
-      "title" : "",
-      "description" : "",
+      "title" : "Auto-attacks and Abilities",
+      "description" : "Every champion has auto-attacks and abilities at their disposal. Auto-attacks, also known as “basic attacks” occur when a player right clicks on a target. Doing so will cause a champion to continually attack a target until it dies. Abilities are cast using Q, W, E, and R. Every champion has abilities that are unique to them for each of these buttons. Here’s Ashe’s W, Volley, in action below: All champions also have access to two abilities, using D and F, called Summoner Spells. These are up to a player’s personal preference, we’ll discuss these later on. Lastly, champions can also cast abilities from items such as Redemption and Tiamat, using the number keys, 1-7.",
       "written" : ""
     },
     {
       "id" : 6,
-      "imageURL" : "",
+      "imageURL" : "https://cdnportal.mobalytics.gg/production/2018/09/Champ-select-1.jpg
+",
       "state" : "free",
-      "title" : "",
-      "description" : "",
+      "title" : "What is a team comp?",
+      "description" : "Since League of Legends is a 5 vs 5 team game, the combinations of champions that your team assembles at champ select can be incredibly important. Often times, you can greatly increase your chances of winning by synergizing the abilities and strengths of your choices. An easy example to understand is an area-of-effect team (AoE) composition. This team combines five champions who have spells and abilities that can either deal damage to multiple champions or hold multiple champions in place with crowd control. Every team comp tends to have a goal in mind, known as a win condition. The win condition of an AoE comp is to catch and kill multiple team members at once. If the AoE comp is able to do so, they will likely win a fight. Another example of a team comp would be the skirmish comp. Skirmish team comps utilize champions that have high mobility and like to fight in messy fights from multiple angles. A skirmish team comp would likely beat an AoE team comp because an AoE team comp would struggle to lock down multiple skirmishers at once if they play their cards right. Since the AoE team comp relies on powerful spells that have long cooldowns, while skirmishers have attacks and abilities that are weaker but can be cast more often, the skirmish team comp can play around the abilities of the AoE team comp. In the infographic below, we cover the strengths and weaknesses of the most common team compositions: If you’re learning about the game as a new player, don’t worry too much about creating the perfect team comp at champ select. You’ll want to focus more on just playing your comfort champions and mastering them. We just wanted to introduce you since it is something that will be mentioned often in game and in other places such as if you watch pro-play or streamers.",
       "written" : ""
     },
     {
       "id" : 7,
-      "imageURL" : "",
+      "imageURL" : "https://cdnportal.mobalytics.gg/production/2019/06/Minimap.jpg",
       "state" : "free",
-      "title" :"",
-      "description" : "",
+      "title" :"Fog of War and Vision Control",
+      "description" : "In League of Legends, you must make decisions with incomplete information. This is because you cannot see everything that is happening on the map due to something called the “fog of war” The fog of war is shown on the minimap as a darkened area, as shown to the left. It conceals enemy movement and you want to be careful not to wander through it unless you have company or if you have a good understanding of where your opponents are. Likewise, your team can use the fog of war to hide your movements and strike your enemies from the shadows. You and all of your allied champions and structures provide vision for your whole team. If you can see it, so can your teammates. Outside of these sources of vision, you also have the ability to create more vision using items called “wards”. At the beginning of the match, every player in the game has access to a free item, called the Warding Totem, which is also known as the “yellow ward”. Use the yellow ward to protect yourself by alerting your team of enemy movement. In the image below, the ward placed in the bush spots an enemy Vi that is moving around top lane. If the ward was not there, you or your teammates who were near the top side of the map may have been blindsided and killed. The vision control here allows your team the opportunity to retreat or set up a counter trap to kill the Vi. These wards will last a limited amount of time and will eventually expire, so be sure to keep an eye on its time remaining. You’ll know how much time is left on a ward by clicking on it or seeing the white bar (seen in the image above), which ticks down as time passed. If the time runs out, it’ll disappear. Take note that the ward also has a green health bar comprised of three blocks. This is a good time to let you know that wards can be destroyed by the enemy team. Each block on the green bar represents an auto-attack hit, so it would take three hits to kill the Warding Totem. There are different types of wards in League of Legends (we’ll cover them in this article). This type of ward stays invisible unless it is revealed by the enemy team by a Control Ward or Red Trinket. Control wards take four hits to be destroyed but are visible to everyone. Within a certain radius, control wards block the vision of enemy wards and reveal where they are. You can strategically use control wards to deny enemy vision from an important area on the map or to clear a ward that you know had been placed. The other major method of clearing wards is the Oracle Lens, also known as the red trinket. The red trinket allows a player to walk around and expose enemy wards around them. Clearing enemy wards throughout a match is incredibly important as it denies their ability to track your teams movements and also allows you to find gaps in their defenses to attack. It’s important that everyone contributes to this cause and it’s normal for every team to eventually have 1-2 red trinkets dedicated to seeking and destroying enemy wards. The last type of ward is the Farsight Alteration, also known as the blue trinket. Blue trinket allows a player to place a ward at a much further distance, and it will remain there until it is destroyed. The downside is that it is visible to the enemy team and dies in one hit – because of this, this is the most situational ward and is mostly only used by the most vulnerable member of your team or a champion that relies on very long range attacks. It’s a common mistake for newer players to forget about fighting for vision control (even experienced players forget to prioritize it). Remember that the more information you have, the better decisions you’ll make. Make a conscious effort to do your part in placing wards and denying your enemies of vision and eventually it’ll be second nature.",
       "written" : ""
     },
     {
-      "id" : 8,
-      "imageURL" : "",
-      "state" : "free",
-      "title" : "",
-      "description" : "",
+       "id" : 8,
+      "imageURL" : "http://i3.ytimg.com/vi/BGtROJeMPeE/maxresdefault.jpg",
+      "state" : "vip",
+      "title" : "What is League of Legends?",
+      "description" : "eague of Legends is a multiplayer online battle arena, also known as a MOBA. It’s been one of the most popular games of all time and currently one of the biggest esports. In a standard game of League, ten players are split into two teams of five and battle it out on a map called Summoner’s Rift. Each of these players controls a single character, known as a champion. What is a champion? All ten players in a League of Legends match controls a single champion. There are currently over 140 champions with new ones being continuously added over time. Every champion has special abilities and powers with unique playstyles. Before a game begins at champ select, each team takes turns selecting champions. There’s a lot of strategies involved as you work with your team to create teams with champions that work well together (more on this later). Every game you play can be vastly different since every champion has their own feel and gameplan. How do you win? The ultimate goal of LoL is to destroy the other team’s base, but it’s not easy. Your enemies will do everything they can to kill you and destroy your base. Each base has a series of turrets and waves of minions that constantly spawn. If you started a game and tried to run straight to the enemy base, you’d certainly die, not just because the enemy team would be trying to stop you at all costs, but also because you may be too weak and die. League is sort of like a role-playing game (RPG) that takes place in a very short amount of time. You begin at level 1 and gradually get stronger throughout the game by gaining experience and earning gold to buy items. The two teams continually grow in power and collide. Eventually, one team is able to get the upper hand and make a final push for a victory.",
       "written" : ""
     }
   ]
